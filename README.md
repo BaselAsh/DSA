@@ -13,7 +13,6 @@ Currently focusing on mastering memory management in C/C++ and understanding the
 - [ ] Pointer Manipulation & Memory Management
 
 ### 2. Linear Data Structures
-- [x] Arrays (Static & Dynamic)
 - [ ] Linked Lists (Singly, Doubly, Circular)
 - [ ] Stacks (Array & Linked List implementations)
 - [ ] Queues (Standard, Circular, Priority)
