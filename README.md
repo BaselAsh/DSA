@@ -10,15 +10,15 @@ Currently focusing on mastering memory management in C/C++ and understanding the
 ### 1. Fundamentals & Analysis
 - [x] Asymptotic Notation (Big O, Omega, Theta)
 - [x] Recursion vs. Iteration
-- [ ] Pointer Manipulation & Memory Management
+- [x] Pointer Manipulation & Memory Management
 
 ### 2. Linear Data Structures
-- [ ] Linked Lists (Singly, Doubly, Circular)
-- [ ] Stacks (Array & Linked List implementations)
-- [ ] Queues (Standard, Circular, Priority)
+- [x] Linked Lists (Singly, Doubly, Circular)
+- [x] Stacks (Array & Linked List implementations)
+- [x] Queues (Standard, Circular, Priority)
 
 ### 3. Non-Linear Data Structures
-- [ ] Trees (Binary, BST, AVL)
+- [x] Trees (Binary, BST, AVL)
 - [ ] Heaps (Min-Heap, Max-Heap)
 - [ ] Graphs (Adjacency Matrix, Adjacency List)
 

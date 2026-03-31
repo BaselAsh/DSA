@@ -1,7 +1,7 @@
 # Testing directories
 test/
+**/test/
 *.pdf
-
 
 # Compiled Object files
 *.o
@@ -11,23 +11,9 @@ test/
 *.gch
 *.pch
 
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
-
-# Executables (General patterns)
-*.exe
-*.out
-*.app
-
 # Specific to your Arch Linux environment
 # This ignores files with no extension (common for C++ binaries on Linux)
 # Note: Use this carefully if you have files without extensions that AREN'T binaries.
-*
-!*/
-!*.*
 !Makefile
 !LICENSE
 !README.md
@@ -38,8 +24,3 @@ test/
 [._]ss[a-gi-z]
 *.un~
 Undo/
-
-# OS generated files
-.DS_Store
-.directory
-Thumbs.db
