@@ -125,5 +125,19 @@ int main() {
     tree.showPostorder();
     cout << endl;
 
+    tree.remove(42);
+
+    cout << "Pre-order Traversal: ";
+    tree.showPreorder();
+    cout << endl;
+
+    cout << "In-order Traversal: ";
+    tree.showInorder();
+    cout << endl;
+
+    cout << "Post-order Traversal: ";
+    tree.showPostorder();
+    cout << endl;
+
     return 0;
 }
